@@ -1,4 +1,4 @@
-# jobsicle-API-Client
+# Jobsicle-API-Client
 PHP Wrapper Around Jobsicle API.
 
 ## Installation
