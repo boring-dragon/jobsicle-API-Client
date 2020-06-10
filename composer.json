@@ -1,0 +1,22 @@
+{
+    "name": "jinas/jobsicle-client",
+    "description": "Jobsicle Client.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Jinas",
+            "email": "j@live.mv"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.1",
+        "tightenco/collect": "^7.11",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jinas\\Jobsicle\\" : "src/"
+        }
+    }
+
+}
