@@ -1,6 +1,6 @@
 {
     "name": "jinas/jobsicle-client",
-    "description": "Jobsicle Client.",
+    "description": "PHP Wrapper Around Jobsicle API.",
     "license": "MIT",
     "authors": [
         {
